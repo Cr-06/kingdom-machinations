@@ -1,4 +1,4 @@
-import {Player, Item} from "/classes.js";
+import {Player, Item} from "./scripts/classes.js";
 
 let isReading = true;
 let isChoosing = false;
